@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Giuseppe Lupoi</h1>
 <h3 align="center">Former waiter for a lifetime, lover of good food and wine. In love with the world of cybersecurity, I try to learn new concepts every day. </h3>
-<h3 Who hesitates is lost! </h3>
+<h3 align="center">"Who hesitates is lost! </h3>
 
-- 🌱 I’m currently learning **Courses & Certificates in CyberSecurity**
+- 🌱 I’m currently learning **Courses & Certificates in CyberSecurity!**
 
 - 📫 How to reach me **giuseppelupoi1996@gmail.com**
 
