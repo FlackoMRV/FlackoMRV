@@ -1,19 +1,23 @@
 <h1 align="center">Hi everyone! 👋</h1>
 
 <div align="center">
-  <img height="200" src="https://anime.pink/image/165165527012"  />
+  <img height="300" src="https://giffiles.alphacoders.com/362/36284.gif"  />
 </div>
 
-<h3 align="center">Former restaurateur for a lifetime, lover of good food and wine 🍽️🍷</h3> 
+<h2>👨‍💻 About me</h2><br>
+<h3 align="center">I am Giuseppe Lupoi born in 1996<h3>
 <h3 align="center">In love with the world of cybersecurity, I try to learn new concepts every day 💻🔐📚<h3>
-<h3 align="center">Who hesitates is lost!</h3>
+<h3 align="center">Who hesitates is lost!</h3><br><br>
 
-- 📖 I’m currently learning on **Fortinet Training Institute!**
+
+📍  Based in <b>Liguria, Italy 🇮🇹</b><br>
+❤️  Passion for <b>Video Games, Books, Football, Food and Good Wine & Beer</b><br>
+📖  I’m currently learning on <b>Fortinet Training Institute!</b><br><br>
 
 <h3 align="left">Let's connect!</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/giuseppe-lupoi-9a71b52b2/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="giuseppe lupoi" height="30" width="40" /></a>
-</p>
+</p><br>
 
 <h3 align="left"> 🛠️ Languages and Tools</h3>
 
@@ -42,13 +46,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows8 logo"  />
+</div><br><br>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=flackomrv&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
-
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=flackomrv&show_icons=true&locale=en" alt="flackomrv" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=flackomrv&" alt="flackomrv" /></p>
-
 
 
 
